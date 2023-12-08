@@ -26,19 +26,18 @@ from strings import get_string
 
 
 YUMI_PICS = [
-"https://graph.org/file/83a6c649a69c33a6694c3.jpg",
-"https://graph.org/file/b33a2e79b95427c28cf5b.jpg",
-"https://graph.org/file/56038fc9c8f21220f1581.jpg",
-"https://graph.org/file/6e7900cb5716f5f149a63.jpg",
-"https://graph.org/file/68368d58fbf026c4ccb7c.jpg",
-"https://graph.org/file/15212d1c6f02cca0518ea.jpg",
-"https://graph.org/file/956558b3d4e90265a87ab.jpg",
-"https://graph.org/file/0a0af24854aaf17da4e9c.jpg",
-"https://graph.org/file/745ebf476253b09d1ce86.jpg",
-"https://graph.org/file/b33a2e79b95427c28cf5b.jpg",
-"https://graph.org/file/745ebf476253b09d1ce86.jpg",
-"https://graph.org/file/56038fc9c8f21220f1581.jpg"
-
+"https://graph.org/file/370b80fd7d886691dd98c.jpg",
+"https://graph.org/file/77a310c89c7b9cd5ee2c7.jpg",
+"https://graph.org/file/e5acb1597514ee308fca5.jpg",
+"https://graph.org/file/f4d968488e0431e250620.jpg",
+"https://graph.org/file/0b0f6da3760f9c45e2ecf.jpg",
+"https://graph.org/file/bcc8df6e778955f4b0c1d.jpg",
+"https://graph.org/file/3db4eb5ff387b4ef9722f.jpg",
+"https://graph.org/file/b435ed53cde5b4cf36f8d.jpg",
+"https://graph.org/file/3258ab01415c6823a4c94.jpg",
+"https://graph.org/file/360676a2c160029e03e46.jpg",
+"https://graph.org/file/8f0918cf9a277d3ea6cef.jpg",
+"https://graph.org/file/3db3ba54f6f313c6cf20a.jpg"
 ]
 
 
