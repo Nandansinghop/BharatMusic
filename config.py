@@ -12,13 +12,13 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","ROCKY_ISS_BACK")
+OWNER_USERNAME = getenv("OWNER_USERNAME","CoronaXvirus")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "ADVANCE_XD_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "DairyMilk_Music_bot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "●⏤͟ ˹✘∂ ɱυѕιᴄ˼⏤●")
+BOT_NAME = getenv("BOT_NAME" , "●⏤͟ ˹Dairy ɱυѕιᴄ˼⏤●")
 #get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME" , "M3_4_U")
+ASSUSERNAME = getenv("ASSUSERNAME" , "CoronaXvirus")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -39,7 +39,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ROCKY-D3V/ASURA-MUSIC",
+    "https://github.com/Nandansinghop/BharatMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
