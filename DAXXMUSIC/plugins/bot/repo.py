@@ -30,38 +30,38 @@ async def start(_, msg):
         ],
         [
           InlineKeyboardButton("нєℓρ", url="https://t.me/ITZ_4_U/2"),
-          InlineKeyboardButton("σωиєя", url="https://t.me/ROCKY_ISS_BACK"),
+          InlineKeyboardButton("σωиєя", url="https://t.me/CoronaXvirus"),
           ],
                [
-                InlineKeyboardButton("Δʙᴏᴜᴛ ʀᴏᴄᴋყ", url="https://t.me/II_ROCKY_II"),
+                InlineKeyboardButton("Δʙᴏᴜᴛ Nandan", url="https://t.me/ABOUT_NANDAN"),
 
 ],
 [
-              InlineKeyboardButton("「ϰ∂ ⚚ ϐοτz」", url=f"https://t.me/XD_BOTX"),
-              InlineKeyboardButton("︎「ϰ∂ ⚚ иєƚωσɾƙ」", url=f"https://t.me/XD_N3TWORK"),
+              InlineKeyboardButton("「ᴠᴀᴍᴘ ⚚ ϐοτz」", url=f"https://t.me/About_Nandan"),
+              InlineKeyboardButton("︎「ᴠᴀᴍᴘ ⚚ иєƚωσɾƙ」", url=f"https://t.me/Vamp_Network"),
               ],
               [
-              InlineKeyboardButton("⏤͟͟͞͞ 𓆩𝐃ᴇᴄᴇɴᴛ ། ། 𝐂ʜᴀᴛɪɴɢ𓆪『 𝐂ʟᴜʙ 2", url=f"https://t.me/DECENT_CHATING"),
-InlineKeyboardButton("ᴅᴘ ᴡᴏʀʟᴅ", url=f"https://t.me/OFFICAL_DP_ZONE"),
+              InlineKeyboardButton("ᴀʙᴏᴜᴛ ɴᴀɴᴅᴀɴ", url=f"https://t.me/About_Nandan"),
+InlineKeyboardButton("ᴅᴘ ᴡᴏʀʟᴅ", url=f"https://t.me/CoronaXvirus"),
 ],
 [
-InlineKeyboardButton("sᴛʀɪɴɢʙᴏᴛ", url=f"https://t.me/XD_STRING_BOT"),
-InlineKeyboardButton("ғᴇᴅᴇʀᴀᴛɪᴏɴ", url=f"https://t.me/officeal_warrior_fedration"),
+InlineKeyboardButton("sᴛʀɪɴɢʙᴏᴛ", url=f"https://t.me/DairyMilk_STRING_BOT"),
+InlineKeyboardButton("ғᴇᴅᴇʀᴀᴛɪᴏɴ", url=f"https://t.me/CoronaXvirus"),
 ],
 [
               InlineKeyboardButton("ᴍᴜsɪᴄ ʙᴏᴛ ʀᴇᴘᴏ", url=f"https://t.me/N91Ab/6"),
-              InlineKeyboardButton("sƚΔƚυs", url=f"https://t.me/About_Dangerous"),
+              InlineKeyboardButton("sƚΔƚυs", url=f"https://t.me/CoronaXvirus"),
               ],
               [
               InlineKeyboardButton("𝗞ɪᴅѕ 𝗢ғ 𝗧ᴇʟᴇɢʀᴀᴍ︎", url=f"https://t.me/ho_gya_viral"),
-InlineKeyboardButton("ɪɴsᴛᴀ", url=f"https://instagram.com/mr_._rocky_._01?igshid=MzNlNGNkZWQ4Mg=="),
+InlineKeyboardButton("ɪɴsᴛᴀ", url=f"https://instagram.com/NANDAN_SINGH_0852?igshid=MzNlNGNkZWQ4Mg=="),
 ],
 [
-InlineKeyboardButton("ᴡʜᴀᴛsᴀᴘᴘ", url=f"https://wa.me/qr/474QNG5BZYHRM1"),
+InlineKeyboardButton("ᴡʜᴀᴛsᴀᴘᴘ", url=f"https://wa.me/qr/6207739436"),
 InlineKeyboardButton("ᴜᴘᴄᴏᴍɪɴɢ", url=f"https://t.me/admin"),
 ],
 [
-InlineKeyboardButton("𝐏𝐀𝐍𝐃𝐀 | 𝐃𝐏𝐙 | 𝐄𝐃𝐈𝐓𝐙 ✨", url=f"https://t.me/PANDA_DPZ_EDITZ"),
+InlineKeyboardButton("ɴᴀɴᴅᴀɴ | 𝐃𝐏𝐙 | 𝐄𝐃𝐈𝐓𝐙 ✨", url=f"https://t.me/ABOUT_NANDAN"),
 
         ]]
     
